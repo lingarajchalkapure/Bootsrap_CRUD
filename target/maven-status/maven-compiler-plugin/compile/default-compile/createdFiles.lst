@@ -1,0 +1,6 @@
+com\satya\dharma\model\Customer.class
+com\satya\dharma\service\CustomerService.class
+com\satya\dharma\dao\CustomerDao.class
+com\satya\dharma\controller\Demo.class
+com\satya\dharma\dao\CustomerDaoImpl.class
+com\satya\dharma\service\CustomerSerImpl.class
